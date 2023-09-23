@@ -15,3 +15,13 @@ To run the demo follow these steps:
    yarn hardhat run scripts/deploy.js
    
 3. On another terminal, run `yarn start` to launch the project on the browser.
+
+## Preview
+
+
+![2](https://github.com/IT21051470/movieTicketAppWeb3/assets/87959133/81f39c6c-78ed-4c35-baa1-9d9f8301b925)
+
+
+![3](https://github.com/IT21051470/movieTicketAppWeb3/assets/87959133/60ff51b1-1a75-44f6-b321-ecb56514fa1b)
+
+
